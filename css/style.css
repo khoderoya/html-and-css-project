@@ -6,7 +6,7 @@
 nav{
     display: flex;
     align-items: center;
-    background-color: steelblue;
+    background-color:plum;
     justify-content: space-between;
     padding: 0px 10%;
     height: 80px;
@@ -19,8 +19,9 @@ a{
 }
 nav > ul{
     display: flex;
-    gap: 15px; 
+    gap: 20px; 
 }
+
 
 
 
